@@ -19,3 +19,7 @@ yarn-error.log*
 .vscode/
 .idea/
 .DS_Store
+
+# environment variables
+.env
+.env.*
