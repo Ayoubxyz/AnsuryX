@@ -1,0 +1,21 @@
+
+# dependencies
+node_modules/
+.pnpm-store/
+dist/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor stuff
+.vscode/
+.idea/
+.DS_Store
